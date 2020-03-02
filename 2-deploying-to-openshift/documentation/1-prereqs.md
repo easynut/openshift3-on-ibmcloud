@@ -32,8 +32,8 @@ There is an image on DockerHub with all required tools. In order to use local ID
 #### Step 1: Run these commands in a terminal
 
 ```
-$ git clone https://github.com/IBM/openshift-on-ibm-cloud-workshops.git 
-$ cd openshift-on-ibm-cloud-workshops
+$ git clone https://github.com/easynut/openshift3-on-ibmcloud.git 
+$ cd openshift3-on-ibmcloud
 $ ROOT_FOLDER=$(pwd)
 $ docker run -v $ROOT_FOLDER/:/cloud-native-starter -it --rm nheidloff/openshift-workshop-tools:v1
 ```
@@ -69,7 +69,7 @@ You should see the prompt like this `root@3f46c41f7303:/usr/local/bin#`, now run
 
 ```
 $ cd /
-$ git clone https://github.com/IBM/openshift-on-ibm-cloud-workshops.git
+$ git clone https://github.com/easynut/openshift3-on-ibmcloud.git
 $ cd openshift-on-ibm-cloud-workshops
 $ ROOT_FOLDER=$(pwd)
 ```
@@ -95,8 +95,8 @@ This approach works only for Mac and Linux (see this [article](https://suedbroec
 #### Step 2: Get the code:
 
 ```
-$ git clone https://github.com/IBM/openshift-on-ibm-cloud-workshops.git
-$ cd openshift-on-ibm-cloud-workshops
+$ git clone https://github.com/easynut/openshift3-on-ibmcloud.git
+$ cd openshift3-on-ibmcloud
 $ ROOT_FOLDER=$(pwd)
 ```
 
