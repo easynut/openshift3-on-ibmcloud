@@ -1,5 +1,3 @@
-[日本語はこちら - Japanese version](./Part4-ja.md)
-
 ## Part 4: Deploy an application on OpenShift on the IBM Cloud
 
 The setup of the OpenShift cluster must be completed to finish this workshop. It is completely set up when the worker node(s) show a status of "Normal" in the "Worker Nodes" section __AND__
@@ -229,7 +227,7 @@ Congratulations! You have completed this workshop!
 
 
 
-__Continue with the second workshop__ in this series: "[Deploying Java Microservices to OpenShift on IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/tree/master/2-deploying-to-openshift#deploying-java-microservices-to-openshift-on-ibm-cloud)".
+__Continue with the second workshop__ in this series: "[Deploying Java Microservices to OpenShift on IBM Cloud](../2-deploying-to-openshift#deploying-java-microservices-to-openshift-on-ibm-cloud)".
 
 
-__Back to the [overview](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops#openshift-on-ibm-cloud-workshops)__
+__Back to the [overview](https://github.com/easynut/openshift3-on-ibmcloud#openshift-on-ibm-cloud-workshops)__
