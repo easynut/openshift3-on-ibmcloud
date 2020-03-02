@@ -1,5 +1,3 @@
-[日本語はこちら - Japanese version](./README-ja.md)
-
 # OpenShift on IBM Cloud Workshops
 
 ![logo](images/os_logo.png)
