@@ -1,6 +1,3 @@
-[日本語はこちら - Japanese version](./Part3-ja.md)
-
-
 ## Part 3: Red Hat tutorials 
 
 We will use the time while you are waiting for your OpenShift cluster to get ready. There is a lot of really good material at the Red Hat OpenShift [Interactive Learning Portal](https://learn.openshift.com/). You get access to a real OpenShift system during these tutorials.
@@ -39,4 +36,4 @@ This tutorial uses a code repository on Github that holds a Python application. 
    * Binary build from a local code repository
 
 
-__Continue with [Part 4: Deploy an application on OpenShift on the IBM Cloud](https://github.com/nheidloff/openshift-on-ibm-cloud-workshops/blob/master/1-understanding-openshift/Part4.md#part-4-deploy-an-application-on-openshift-on-the-ibm-cloud)__
+__Continue with [Part 4: Deploy an application on OpenShift on the IBM Cloud](./Part4.md#part-4-deploy-an-application-on-openshift-on-the-ibm-cloud)__
