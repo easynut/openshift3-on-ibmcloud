@@ -1,5 +1,3 @@
-[日本語はこちら - Japanese version](./Part2-ja.md)
-
 ## Part 2: Create an OpenShift cluster on the IBM Cloud
 
 To create your own OpenShift Cluster on IBM Cloud follow these steps. 
@@ -36,4 +34,4 @@ __Note:__ This is not available with a free IBM Cloud Lite Account!
 The creation of the cluster takes at least 20 minutes, __during this time continue with Part 3 of this workshop doing some hands-on exercises.__
 
 
-__Continue with [Part 3: Red Hat tutorials](/Part3.md)__
+__Continue with [Part 3: Red Hat tutorials](./Part3.md)__
