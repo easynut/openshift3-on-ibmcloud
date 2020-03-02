@@ -32,7 +32,7 @@ There is an image on DockerHub with all required tools. In order to use local ID
 #### Step 1: Run these commands in a terminal
 
 ```
-$ git clone https://github.com/IBM/openshift-on-ibm-cloud-workshops.git
+$ git clone https://github.com/IBM/openshift-on-ibm-cloud-workshops.git 
 $ cd openshift-on-ibm-cloud-workshops
 $ ROOT_FOLDER=$(pwd)
 $ docker run -v $ROOT_FOLDER/:/cloud-native-starter -it --rm nheidloff/openshift-workshop-tools:v1
