@@ -45,8 +45,8 @@ After the build the pod and the service will be deployed. Note that the healthch
 In the last step create a route.
 
 ```
-$ oc expose svc/openshift-on-ibm-cloud-workshops
-$ oc get route/openshift-on-ibm-cloud-workshops
+$ oc expose svc/openshift3-on-ibmcloud
+$ oc get route/openshift3-on-ibmcloud
 ```
 
 To test the deployment, append '/openapi/ui' to the URL in the output of 'oc get route/openshift-on-ibm-cloud-workshops' and open it in a browser.
